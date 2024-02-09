@@ -4,10 +4,13 @@
   "description": "types for liteloaderqqnt",
   "scripts": {},
   "keywords": [],
-  "author":{
+  "author": {
     "name": "ghostflyby",
     "email": "ghostflyby+npm@outlook.com"
   },
   "license": "MIT",
-  "types": "LiteLoader.d.ts"
+  "types": "LiteLoader.d.ts",
+  "publishConfig": {
+    "access": "public"
+  }
 }
